@@ -39,7 +39,7 @@ Sample batch table:
 
 ## External batch table structure
 
-The structure of the external batch table file mirrors the [standard batch table](../../specification/TileFormats/Batched3DModel), with the addition of a file header section:
+The structure of the external batch table file mirrors the [standard batch table](../../specification/TileFormats/BatchTable/README.md), with the addition of a file header section:
 
 ![External Batch Table File Layout](figures/layout.png)
 
